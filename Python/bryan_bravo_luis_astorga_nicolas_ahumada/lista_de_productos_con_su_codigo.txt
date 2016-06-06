@@ -1,0 +1,21 @@
+
+codigo-producto
+001-Te 
+002-Cafe
+003-Milo
+004-Leche
+005-Sandiwch Lomo
+006-sandiwch Potito 
+007-Sandiwch Churrasco 
+008-Sandiwch de Pernil
+009-sandiwch de Pollo 
+010-Bebida express 
+011-Empanadas de pino 
+012-Empanadas de Queso
+013-Empanadas de Pollo y Queso 
+014-Aliados (Lomo y Potito) 
+015-Aliados (Queso y Jamon) 
+
+
+
+

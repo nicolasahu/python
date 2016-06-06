@@ -1,0 +1,11 @@
+Bueno nuestro programa cuenta con dos innovaciones la cuales son
+- limpiar pantalla al elegir alguna opción la cual sirve cuando ejecutamos el programa, en mi caso yo uso el geany , 
+	Usa la siguiente línea de código :
+	Import os
+	os.system ("cls")
+
+-limpiar las lista para que borre el pedido la cual da la opción de eliminar todos los datos dentro de la lista 
+	que se usa para hacer el pedido, mientras la persona que use el programa no presione la opción de borrar 
+	no se borrara y se podrá agregar más  opciones de comida, el programa ocupa una simple línea de código 
+	Ej:
+	lista[:]=[] #lo cual como se muestra [:] s la lista con datos y [] es la lista sin nada dentro de ella
